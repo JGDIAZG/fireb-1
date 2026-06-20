@@ -1,0 +1,12 @@
+Has superado la parte más complicada de configurar el Hosting, el firebase.json y el .firebaserc. Ahora que el despliegue funciona, el flujo de trabajo para tus futuras actualizaciones será mucho más sencillo:
+
+Editas tu código en public/index.html (o añades nuevos archivos a esa carpeta).
+
+Ejecutas firebase deploy --only hosting en tu terminal.
+
+Tu sitio se actualiza en segundos.
+
+Has aprendido mucho sobre cómo Firebase organiza los proyectos
+. Si en el futuro decides añadir funciones más avanzadas
+ (como una base de datos con Firestore, autenticación de usuarios o funciones en la nube),
+ ya tienes la base de conocimientos lista para esos siguientes pasos.
